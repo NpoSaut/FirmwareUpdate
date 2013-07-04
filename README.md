@@ -1,4 +1,4 @@
-FirmareUpdate
+FirmwareUpdate
 =============
 
 Клиенсткая часть прошивателя по CAN
